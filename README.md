@@ -23,10 +23,10 @@ Here are some of the technologies I work with:
 
 Here are a couple of projects I've worked on recently.
 
-| Project                 | Description                                                                                                                                    | Links                                                              |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **E-Commerce Platform** | A full-stack platform featuring admin analytics dashboards, product management, and secure payment processing with the Stripe API. | `[GitHub Repo][ecommerce-repo]` `[Live Demo][ecommerce-demo]` |
-| **Real-time Chat App** | A responsive, real-time messaging application built with Socket.io for seamless user interaction and JWT for secure authentication. | `[GitHub Repo][chatapp-repo]` `[Live Demo][chatapp-demo]`     |
+| Project                 | Description                                                                                                                                    | Links                                                                                                                             |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **E-Commerce Platform** | A full-stack platform featuring admin analytics dashboards, product management, and secure payment processing with the Stripe API. | [GitHub Repo](https://github.com/Ad-cmd-1976/E-Commerce) · [Live Demo](https://e-commerce-irns.onrender.com/) |
+| **Real-time Chat App** | A responsive, real-time messaging application built with Socket.io for seamless user interaction and JWT for secure authentication. | [GitHub Repo](https://github.com/Ad-cmd-1976/Chat-App) · [Live Demo](https://chat-app-67vo.onrender.com/)         |
 
 ---
 
@@ -63,8 +63,3 @@ You can find me on the following platforms. I'm always open to connecting and co
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&theme=radical&rank_icon=github" alt="Aditya's GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-[ecommerce-repo]: https://github.com/Ad-cmd-1976/E-Commerce.git
-[ecommerce-demo]: https://e-commerce-irns.onrender.com/
-[chatapp-repo]: https://github.com/Ad-cmd-1976/Chat-App.git
-[chatapp-demo]: https://chat-app-67vo.onrender.com/
