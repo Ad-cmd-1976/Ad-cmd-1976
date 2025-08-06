@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+Real-Time+Apps+with+MERN+⚡;Competitive+Programmer+and+Backend+Developer+💻;Always+Learning+and+Improving+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=650&height=80&lines=Building+Real-Time+Apps+with+MERN+⚡;Full+Stack+Developer+💻;Always+Learning+and+Improving+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Final-year CSE student at **MMMUT, Gorakhpur** (Batch 2022–2026)
-- 💡 Passionate about crafting **real-time**, **scalable**, and **user-centric** web apps
-- 🛠️ Currently building a **wallpaper marketplace**, and exploring **cloud deployment** and **payment gateways**
-- 🔒 Strong believer in writing **secure & optimized** backend APIs
+- 🎓 Final-year CSE student at **MMMUT, Gorakhpur** (Batch 2022–2026)  
+- 💡 Passionate about crafting **real-time**, **scalable**, and **user-centric** web apps  
+- 🛠️ Currently building a **wallpaper marketplace**, and exploring **cloud deployment** and **payment gateways**  
+- 🔒 Strong believer in writing **secure & optimized** backend APIs  
 - 📫 Reach me at: **adityavishwakarma.dev@gmail.com**
 
 ---
@@ -96,6 +96,7 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad-cmd-1976&theme=dark&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Ad-cmd-1976&theme=dark&hide_border=true" width="60%" />
 </p>
+
 
