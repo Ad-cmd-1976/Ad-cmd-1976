@@ -104,11 +104,14 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Contribution Streak (Static Preview)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ad-cmd-1976&theme=dark&hide_border=true" width="60%" alt="Aditya's GitHub Streak" />
+  <a href="https://github.com/Ad-cmd-1976">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad-cmd-1976&theme=dark&hide_border=true&stroke=0000&ring=DD2727" width="80%" alt="Aditya's GitHub Streak" />
+  </a>
 </p>
+
 
 
 
