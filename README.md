@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=650&height=80&lines=Building+Real-Time+Apps+with+MERN+⚡;Full+Stack+Developer+💻;Always+Learning+and+Improving+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Building+Real-Time+Apps+with+MERN+⚡;Full+Stack+Developer+💻;Always+Learning+and+Improving+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -96,7 +96,8 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ad-cmd-1976&theme=dark&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad-cmd-1976&theme=dark&hide_border=true" width="60%" />
 </p>
+
 
 
