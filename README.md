@@ -27,20 +27,10 @@
 
 ## 🧰 Tech Toolbox
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" style="margin: 10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,git,github,tailwind,cpp,python&perline=6" />
+</p>
+
 
 ---
 
