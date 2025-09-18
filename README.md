@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=650&lines=Building+Real-Time+Apps+with+MERN+⚡;Full+Stack+Developer+💻;Always+Learning+and+Improving+🚀" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ad-cmd-1976.Ad-cmd-1976" alt="visitors" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
