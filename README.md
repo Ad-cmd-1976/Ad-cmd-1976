@@ -76,8 +76,8 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&hide_border=true" />
 </p>
 
 ---
