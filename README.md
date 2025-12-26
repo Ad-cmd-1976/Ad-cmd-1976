@@ -84,9 +84,9 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ad-cmd-1976&theme=dracula&no-frame=true&margin-w=15" />
-</p>
+![Followers](https://img.shields.io/github/followers/Ad-cmd-1976?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Ad-cmd-1976?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-📦-blue?style=for-the-badge)
 
 ---
 
