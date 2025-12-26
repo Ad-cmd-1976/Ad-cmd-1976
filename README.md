@@ -26,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,mongodb,git,github,tailwind,cpp,python&perline=6" />
 </p>
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -72,31 +71,36 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 
 ---
 
-## 🏆 GitHub Metrics
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ad-cmd-1976&theme=dracula&no-frame=true&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Ad-cmd-1976?label=Followers&style=for-the-badge&color=2ea44f">
   <img src="https://img.shields.io/github/stars/Ad-cmd-1976?label=Total%20Stars&style=for-the-badge&color=dfb317">
-  <img src="https://img.shields.io/github/repo-count/Ad-cmd-1976?label=Repositories&style=for-the-badge&color=007ec6">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAd-cmd-1976&style=for-the-badge&color=007ec6">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3AAd-cmd-1976&style=for-the-badge&color=7289da">
 </p>
 
 ---
 
-## 📊 Performance & Activity
+## 📈 Activity & Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ad-cmd-1976&theme=github_dark" width="100%" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ad-cmd-1976&theme=github_dark" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ad-cmd-1976&theme=github_dark" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&theme=transparent&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&theme=transparent&hide_border=true" height="150">
 </p>
 
 ---
 
-## 🧠 Contribution Graph
+## 🧠 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ad-cmd-1976&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ad-cmd-1976&theme=github-compact&hide_border=true" width="100%" />
 </p>
