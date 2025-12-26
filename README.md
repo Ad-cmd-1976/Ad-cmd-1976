@@ -76,8 +76,8 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&theme=radical&rank_icon=github" alt="Aditya's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ad-cmd-1976&theme=dracula&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ad-cmd-1976&theme=dracula&no-frame=true&margin-w=15" />
 </p>
 
 ---
