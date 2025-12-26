@@ -15,8 +15,7 @@
 
 - 🎓 Final-year CSE student at **MMMUT, Gorakhpur** (Batch 2022–2026)  
 - 💡 Passionate about crafting **real-time**, **scalable**, and **user-centric** web apps  
-- 🛠️ Currently building a **wallpaper marketplace**, and exploring **cloud deployment** and **payment gateways**  
-- 🔒 Strong believer in writing **secure & optimized** backend APIs  
+- 🛠️ Currently building a **wallpaper marketplace**, and exploring **cloud deployment** and **payment gateways** - 🔒 Strong believer in writing **secure & optimized** backend APIs  
 - 📫 Reach me at: **adityavishwakarma9025@gmail.com**
 
 ---
@@ -73,20 +72,24 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&hide_border=true" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ad-cmd-1976&theme=radical&no-bg=true&column=7" alt="github trophies" />
+  </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/Ad-cmd-1976?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Ad-cmd-1976?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public%20Repos-📦-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180px" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad-cmd-1976&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -95,9 +98,3 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ad-cmd-1976&theme=github-compact&hide_border=true" width="100%" />
 </p>
-
-
-
-
-
-
