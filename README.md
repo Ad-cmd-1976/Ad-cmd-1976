@@ -72,27 +72,31 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ad-cmd-1976&theme=dracula&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://img.shields.io/github/followers/Ad-cmd-1976?label=Followers&style=for-the-badge&color=2ea44f">
+  <img src="https://img.shields.io/github/stars/Ad-cmd-1976?label=Total%20Stars&style=for-the-badge&color=dfb317">
+  <img src="https://img.shields.io/github/repo-count/Ad-cmd-1976?label=Repositories&style=for-the-badge&color=007ec6">
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" height="170" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad-cmd-1976&theme=vision-friendly-dark&hide_border=true" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ad-cmd-1976&theme=github_dark" width="100%" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ad-cmd-1976&theme=github_dark" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ad-cmd-1976&theme=github_dark" height="200" />
 </p>
 
 ---
 
-## 🧠 GitHub Activity Graph
+## 🧠 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ad-cmd-1976&theme=github-compact&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ad-cmd-1976&theme=react-dark&hide_border=true" width="100%" />
 </p>
