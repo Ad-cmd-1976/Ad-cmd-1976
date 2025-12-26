@@ -75,9 +75,7 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ad-cmd-1976&theme=radical&no-bg=true&column=7" alt="github trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ad-cmd-1976&theme=dracula&no-frame=true&column=7&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -85,10 +83,10 @@ Responsive chat app with **Socket.io**, **JWT auth**, and real-time messaging
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Aditya's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ad-cmd-1976&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-cmd-1976&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" height="170" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad-cmd-1976&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ad-cmd-1976&theme=vision-friendly-dark&hide_border=true" alt="Streak" />
 </p>
 
 ---
